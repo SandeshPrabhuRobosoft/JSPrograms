@@ -1,5 +1,5 @@
 let arr=[10,20,[30,40,[50,60]]]
-// console.log(arr.flat(2/*depth*/))
+console.log(arr.flat(2/*depth*/))
 
 //Recursive function
 let newArray=[]
